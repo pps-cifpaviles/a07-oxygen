@@ -151,3 +151,4 @@ It is important to note that we could also dockerize this load tests using this 
 
 Note that we are handling all the setup for the auth and user microservices using the file `test-environment-setup.js`. This file has the code needed to run everything, including an in-memory Mongo database to be able to execute the tests.
 
+"prueba" 
